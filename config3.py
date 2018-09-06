@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python
-#https://github.com/globalaplication/gnome.background/blob/master/config.py
+#https://forum.ubuntu-tr.net/index.php?topic=59565.msg641414#msg641414
 import os
 class Load (object):
     def __init__(self, file="/var/tmp/data"):
